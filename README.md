@@ -5,7 +5,7 @@ I am a creative and motivated Software Developer experience specializing in Web 
 🌱 Currently learning: How to develop Algorithims for procedural level generation.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sharifadepetu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharifadepetu@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharifadepetu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharifadepetu@gmail.com) 
 
 
 # 📊 GitHub Stats:
