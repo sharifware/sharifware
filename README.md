@@ -1,5 +1,5 @@
 ## Hey, I'm Sharif 
-I am a creative and motivated Software Developer experience specializing in Web Design, Machine Learning, and Game design. My core expertise lies in C++ and Python, and I excel in technologies such as PyTorch, Tensorflow, AWS and SQL. I also have hands-on experience with React, Tailwind CSS, and modern UI frameworks.
+I am a creative and motivated Software Developer experience specializing in Web Design, Machine Learning, and Game design. My core expertise lies in C#, C++ and Python, and I excel in technologies such as PyTorch, Tensorflow, AWS and SQL. I also have hands-on experience with React, Tailwind CSS, and modern UI frameworks.
 
 🌱 Currently learning: How to develop Algorithims for procedural level generation. 
 
